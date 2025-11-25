@@ -5,7 +5,6 @@
 **Language:** Python (Single-file architecture)  
 **UI Style:** Fluent Design, Office-inspired, Modern Aesthetics  
 **Rendering Engine:** Chromium Embedded Framework (CEF) or WebView2  
-**License:** MIT (or your preferred license)
 
 ---
 
