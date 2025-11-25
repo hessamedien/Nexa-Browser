@@ -125,6 +125,3 @@ For updates, feedback, or collaboration:
 - Instagram: [@hessamedien](https://www.instagram.com/hessamedien)
 - GitHub: [github.com/hessamedien](https://github.com/hessamedien)
 
----
-
-Let me know if you’d like a Persian version of this README or want to add badges, demo GIFs, or a license section.
