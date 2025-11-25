@@ -1,7 +1,3 @@
-Absolutely, Hessamedien! Here's a comprehensive and professional English README draft for your GitHub repository, tailored to your vision for the “Nexa Browser” project:
-
----
-
 # 🌐 Nexa Browser – A Modern, AI-Powered Web Browser for Windows
 
 **Creator:** [@hessamedien](https://www.instagram.com/hessamedien)  
